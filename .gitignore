@@ -4,7 +4,8 @@ main
 primer
 
 .cache
-.cache/*/**
 
 sol.txt
 test*
+temp.cpp
+sanitized.cpp
